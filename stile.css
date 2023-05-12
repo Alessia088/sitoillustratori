@@ -1,0 +1,15 @@
+stile.css
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    background-color: rgb(255, 255, 255);
+}
+
+main {
+    max-width: 1200px;
+    margin: auto; font-size: xx-large;
+}
+
+ header {
+   align-items: center ;
+   margin-top: auto;
+}  
